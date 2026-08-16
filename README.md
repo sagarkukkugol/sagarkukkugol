@@ -6,7 +6,7 @@
 
 🎓 B.E. in Information Science and Engineering at **BMS College of Engineering, Bengaluru**
 
-🚀 Interested in building practical software, innovative solution, and full-stack web solutions.
+🚀 Interested in building practical software, innovative solution and full-stack web solutions.
 
 📍 Bengaluru, India
 
@@ -16,9 +16,9 @@
 
 I'm a Computer Science enthusiast and Information Science engineering student passionate about learning new technologies and building practical projects.
 
-My interests include **Full-Stack Development, Artificial Intelligence, Machine Learning, Backend Development, and Problem Solving**.
+My interests include **Full-Stack Development,  Machine Learning, Backend Development, Frontend Development and Problem Solving**.
 
-I enjoy turning ideas into working applications and continuously improving my programming, DSA, and software engineering skills.
+I enjoy turning ideas into working applications and continuously improving my programming, DSA and software engineering skills.
 
 ---
 
@@ -28,7 +28,6 @@ I enjoy turning ideas into working applications and continuously improving my pr
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
@@ -52,7 +51,6 @@ I enjoy turning ideas into working applications and continuously improving my pr
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
 ---
 
@@ -68,7 +66,7 @@ CGPA: **9.0/10**
 
 Relevant Coursework:
 
-`Data Structures & Algorithms` · `DBMS` · `Operating Systems` · `Computer Networks` · `Software Engineering` · `Cloud Computing` · `Machine Learning`
+`Data Structures & Algorithms` · `DBMS` · `Operating Systems` · `Computer Networks` · `Software Engineering` · `Cloud Computing` · `Machine Learning` · `Software Engineer` · `Software Testing`
 
 ---
 
@@ -130,9 +128,10 @@ A full-stack web application designed for project management and portfolio-relat
 
 ## 📜 Certifications
 
-* **Nutanix Certified Associate 6 (NCA)** — Multicloud Infrastructure
-* **Google Cloud Engineering Certificate** — Google Cloud Career Launchpad
-* **Getting Started with Cisco Packet Tracer** — Cisco Networking Academy
+* **Nutanix Certified Associate 6 (NCA)** - Multicloud Infrastructure
+* **Google Cloud Engineering Certificate** - Google Cloud Career Launchpad
+* **Selenium** - Selenium WebDriver
+* **Getting Started with Cisco Packet Tracer** - Cisco Networking Academy
 
 ---
 
@@ -154,9 +153,11 @@ I'm currently preparing for software engineering opportunities and focusing on:
 🐙 **GitHub:** [@sagarkukkugol](https://github.com/sagarkukkugol)
 
 ---
+
 ⚡ My Mindset
 
 "Build with purpose. Solve with curiosity. Improve with every iteration."
+
 ---
 
 `⭐ Thanks for visiting my profile!`
