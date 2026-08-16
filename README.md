@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Sagar Kukkugol
 
-### 💻 Information Science Engineering Student | Full-Stack Developer | AI & ML Enthusiast
+### 💻 Information Science Engineering Student | Full-Stack Developer | COMPUTER SCIENCE Enthusiast
 
 <img src="./sagar_github_profile_premium.gif" width="100%">
 
 🎓 B.E. in Information Science and Engineering at **BMS College of Engineering, Bengaluru**
 
-🚀 Interested in building practical software, AI-powered applications, and full-stack web solutions.
+🚀 Interested in building practical software, innovative solution, and full-stack web solutions.
 
 📍 Bengaluru, India
 
@@ -87,7 +87,7 @@ Relevant Coursework:
 
 ### 💬 Real-Time Chat Ledger Web Application
 
-**MERN Stack · Socket.IO · WebRTC**
+**MERN Stack · Socket.IO · WebRTC · Ledger **
 
 A scalable full-stack real-time chat application built using the MERN stack.
 
@@ -158,5 +158,9 @@ I'm currently preparing for software engineering opportunities and focusing on:
 🐙 **GitHub:** [@sagarkukkugol](https://github.com/sagarkukkugol)
 
 ---
+⚡ My Mindset
 
-⭐ Thanks for visiting my profile!
+"Build with purpose. Solve with curiosity. Improve with every iteration."
+---
+
+`⭐ Thanks for visiting my profile!`
