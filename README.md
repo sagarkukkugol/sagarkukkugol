@@ -2,6 +2,8 @@
 
 ### 💻 Information Science Engineering Student | Full-Stack Developer | AI & ML Enthusiast
 
+<img src="./sagar_github_profile_premium.gif" width="100%">
+
 🎓 B.E. in Information Science and Engineering at **BMS College of Engineering, Bengaluru**
 
 🚀 Interested in building practical software, AI-powered applications, and full-stack web solutions.
@@ -138,18 +140,6 @@ A full-stack web application designed for project management and portfolio-relat
 
 ---
 
-## 📚 Currently Learning
-
-```text
-🔹 Data Structures & Algorithms
-🔹 Full-Stack Development
-🔹 Machine Learning
-🔹 Backend Development
-🔹 Computer Networks
-🔹 System Design Fundamentals
-```
-
----
 
 ## 🎯 Career Focus
 
