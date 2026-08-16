@@ -98,8 +98,6 @@ A scalable full-stack real-time chat application built using the MERN stack.
 
 🔗 [View Repository](https://github.com/sagarkukkugol/fullstack-real-time-chat-app)
 
-🌐 [Live Demo](https://fullstack-real-time-chat-app-eta.vercel.app/)
-
 ---
 
 ### 🚦 Real-Time Traffic Congestion Detection System
@@ -113,8 +111,6 @@ A full-stack computer vision web application for real-time traffic monitoring an
 - Developed real-time traffic congestion classification into Low, Moderate, and High levels.
 - Added automated congestion advisories, time-ranged event reporting, live-camera processing, and H.264 video handling.
 - Developed REST APIs and Flask Blueprints for real-time monitoring.
-
-🔗 [View Repository](#)
 
 ---
 
